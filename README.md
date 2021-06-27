@@ -1,4 +1,5 @@
 # Kelompok_3_Aplikasi_KRS
+Aplikasi KRS ini merupakan sebuah aplikasi pengelolaan krs dimana terdapat fitur sebagai admin dan sebagai mahasiswa yang memiliki dua hak akses berbeda. Aplikasi KRS ini merupakan sebuah karya yang ditujukan sebagai tugas akhir mata kuliah Pemrograman Lanjut Sistem Informasi 2A.
 Disusun Oleh :
 1. 11200930000011  Mar'atus Sholihah
 2. 11200930000012  Sallma Diana Putri
